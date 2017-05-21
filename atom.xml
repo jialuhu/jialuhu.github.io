@@ -4,9 +4,9 @@
   
   <link href="/myblog/atom.xml" rel="self"/>
   
-  <link href="https://jialuhu.github.io/"/>
+  <link href="https://github.com/jialuhu/jialuhu.github.io.git/"/>
   <updated>2017-02-13T02:27:22.000Z</updated>
-  <id>https://jialuhu.github.io/</id>
+  <id>https://github.com/jialuhu/jialuhu.github.io.git/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jialuhu.github.io/2017/02/13/hello-world/"/>
-    <id>https://jialuhu.github.io/2017/02/13/hello-world/</id>
+    <link href="https://github.com/jialuhu/jialuhu.github.io.git/2017/02/13/hello-world/"/>
+    <id>https://github.com/jialuhu/jialuhu.github.io.git/2017/02/13/hello-world/</id>
     <published>2017-02-13T02:27:22.000Z</published>
     <updated>2017-02-13T02:27:22.000Z</updated>
     
