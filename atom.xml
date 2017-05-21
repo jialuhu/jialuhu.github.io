@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/jialuhu/jialuhu.github.io.git/atom.xml" rel="self"/>
+  <link href="/jialuhu/jialuhu.github.io.git%EF%BC%8F/atom.xml" rel="self"/>
   
   <link href="https://github.com/jialuhu/jialuhu.github.io.git/"/>
   <updated>2017-02-13T02:27:22.000Z</updated>
