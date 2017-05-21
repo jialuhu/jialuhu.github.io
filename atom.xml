@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/jialuhu.github.io.git/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/jialuhu/jialuhu.github.io.git/"/>
+  <link href="http://yoursite.com/child/"/>
   <updated>2017-02-13T02:27:22.000Z</updated>
-  <id>https://github.com/jialuhu/jialuhu.github.io.git/</id>
+  <id>http://yoursite.com/child/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/jialuhu/jialuhu.github.io.git/2017/02/13/hello-world/"/>
-    <id>https://github.com/jialuhu/jialuhu.github.io.git/2017/02/13/hello-world/</id>
+    <link href="http://yoursite.com/child/2017/02/13/hello-world/"/>
+    <id>http://yoursite.com/child/2017/02/13/hello-world/</id>
     <published>2017-02-13T02:27:22.000Z</published>
     <updated>2017-02-13T02:27:22.000Z</updated>
     
